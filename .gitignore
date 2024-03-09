@@ -1,0 +1,9 @@
+Library
+/Logs
+/Packages
+/ProjectSettings
+/UserSettings
+/Temp
+.vsconfig
+heroesDragon.sln
+*.meta
