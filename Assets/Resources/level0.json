@@ -1,0 +1,9 @@
+{
+    "tiles": [],
+    "entities": [
+        {"type": 0, "x": 0, "y": 0, "fraction": 0, "deck": 1},
+        {"type": 1, "x": 4, "y": 4, "fraction": 1, "deck": 0},
+        {"type": 2, "x": 1, "y": 1, "fraction": 2, "deck": 0},
+        {"type": 1, "x": 2, "y": 4, "fraction": 1, "deck": 0}
+    ]
+}

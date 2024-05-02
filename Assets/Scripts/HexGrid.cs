@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class HexGrid : MonoBehaviour
 {
-    public int gridSize = 5; // Размер сетки (количество гексагонов в одном направлении)
+    public int gridSize = 10; // Размер сетки (количество гексагонов в одном направлении)
     public float hexagonSize = 1f; // Размер гексагона (изменено на 1.5)
     public GameObject hexagonPrefab; // Префаб гексагона
 
